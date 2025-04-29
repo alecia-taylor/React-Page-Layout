@@ -15,7 +15,7 @@ export default function EmployeePage() {
       <p>SMS</p>
       <h6>781-000-0002</h6>
       <p>Email</p>
-      <h6>tishana.trainor@perscholas.org</h6>
+      <h6>alecia.taylor0@gmail.com</h6>
     </div>
     </div>
   )
